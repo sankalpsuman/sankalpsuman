@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Sankalp Suman</h1>
 
 <picture>
