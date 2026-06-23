@@ -1,6 +1,6 @@
 # Hi, I'm Sankalp 👋
 
-🔍 QA Engineer | Test Automation | Scrum Master  
+🔍 SW Test Specialist Test lead | Test Automation | Scrum Master  
 💼 7+ years in Healthcare & Enterprise Systems  
 
 ---
