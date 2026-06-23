@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sankalp Suman</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankalpsuman/sankalpsuman/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sankalpsuman/sankalpsuman/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h3 align="center">
 Software Test Specialist • QA Lead • Scrum Master
 </h3>
@@ -15,7 +20,7 @@ Building AI Products • Test Automation • Playwright • Enterprise Quality E
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Test+Specialist;QA+Lead+%7C+Scrum+Master;7.6%2B+Years+Experience;Building+AI+Products;Playwright+%7C+Automation+Testing;AI+Powered+Quality+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Test+Specialist;QA+Lead+%7C+Scrum+Master;8.0%2B+Years+Experience;Building+AI+Products;Playwright+%7C+Automation+Testing;AI+Powered+Quality+Engineering"/>
 </p>
 
 ---
