@@ -24,7 +24,7 @@ Building AI Products • Test Automation • Playwright • Enterprise Quality E
 
 🔹 Software Test Specialist at Amdocs
 
-🔹 7.6+ Years of Experience in Software Testing
+🔹 8.0+ Years of Experience in Software Testing
 
 🔹 Scrum Master with Agile Delivery Experience
 
