@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sankalp 👋
 
-<!--
-**sankalpsuman/sankalpsuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 QA Engineer | Test Automation | Scrum Master  
+💼 7+ years in Healthcare & Enterprise Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Automation Testing (Selenium, API, UI)
+- Manual Testing & Test Design
+- Agile / Scrum Practices
+- Building AI tools (ResumeMorph AI)
+
+---
+
+## 🛠 Tech Stack
+- Languages: Java, TypeScript
+- Tools: Selenium, Postman, Playwright
+- CI/CD: Jenkins, GitHub Actions
+
+---
+
+## 📌 Featured Projects
+- ResumeMorph AI – AI-powered resume optimizer
+- QA Automation Framework – scalable test framework
+- API Testing Suite – Postman collection
+
+---
+
+## 🌐 Portfolio
+https://sankalp-suman.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sankalpsuman&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=sankalpsuman)
